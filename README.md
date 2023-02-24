@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maria Emilia</h1>
 <h3 align="center">I am a computer engineering student and developer💻</h3>
 
-<h3 align="left">I am looking for my first IT job</h3>
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1qJNLQlMWL_UWdcgOP_uzpTpdIwQjoajp?usp=sharing](https://drive.google.com/drive/folders/1qJNLQlMWL_UWdcgOP_uzpTpdIwQjoajp?usp=sharing)
 
